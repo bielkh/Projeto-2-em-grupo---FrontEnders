@@ -7,10 +7,10 @@ O objetivo deste segundo projeto em grupo era criar um produto para a empresa Fr
 
 ## Autores
 
-- [Rayssa Moura](https://github.com/programadora410)
-- [Ramon Souza](https://github.com/ramonsolfer)
-- [Gabriel da Silva Rocha](https://github.com/bielkh)
-- [André Carlos](https://github.com/Kakaroto27)
+- [Rayssa Moura](https://github.com/programadora410) - Responsável pela página de contatos e slides - Colaboradora
+- [Ramon Souza](https://github.com/ramonsolfer) - Responsável pela página de serviços e slides - Co-facilitador
+- [Gabriel da Silva Rocha](https://github.com/bielkh) - Responsável pela página principal e página de login - Gestor de pessoa
+- [André Carlos](https://github.com/Kakaroto27) - Responsável pela página de cadastro e recuperação de senha - Gestor de conhecimento
 
 ## Funcionalidades
 
