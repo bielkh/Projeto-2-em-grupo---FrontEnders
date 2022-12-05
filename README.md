@@ -23,10 +23,10 @@ O objetivo deste segundo projeto em grupo era criar um produto para a empresa Fr
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Azul - Cor da tecnologia e também usamos diferentes tons dessa cor      | ![#6686B6](https://via.placeholder.com/10/6686B6?text=+) #6686B6 |
-| Branco - Cor da tranquilidade    | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
-| Outro tom de azul que usamos  | ![#7699F8](https://via.placeholder.com/10/7699F8?text=+) #7699F8 |
-| Outro tom de azul que usamos | ![#4498F8](https://via.placeholder.com/10/4498F8?text=+) #4498F8 |
+| Azul - Cor da tecnologia e também usamos diferentes tons dessa cor      | ![#6686B6](https://via.placeholder.com/10/6686B6?/png=+) #6686B6 |
+| Branco - Cor da tranquilidade    | ![#ffffff](https://via.placeholder.com/10/ffffff?/png=+) #ffffff |
+| Outro tom de azul que usamos  | ![#7699F8](https://via.placeholder.com/10/7699F8?/png=+) #7699F8 |
+| Outro tom de azul que usamos | ![#4498F8](https://via.placeholder.com/10/4498F8?/png=+) #4498F8 |
 
 
 ## Demonstração
